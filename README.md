@@ -173,16 +173,49 @@ These two metrics measure different things and should not be interpreted as the 
 
 The final recommendation analysis produced the following top recommendations:
 
-Rank	Team	Recommended Venue	Final Score
-1	Pakistan	Queens Sports Club	87.10
-2	South Africa	Buffalo Park	85.63
-3	Australia	Mangaung Oval	77.20
-4	India	Newlands	76.65
-5	Bangladesh	SuperSport Park	70.54
-6	England	Mangaung Oval	68.78
-7	Scotland	Queens Sports Club	68.16
-8	Sri Lanka	Queens Sports Club	65.27
-9	West Indies	Harare Sports Club	63.23
-10	Ireland	Wanderers Stadium	62.12
+| Rank |	Team |	Recommended Venue |	Final Score |
+| 1 |	Pakistan |	Queens Sports Club |	87.10 |
+| 2 |	South Africa |	Buffalo Park |	85.63 |
+| 3 |	Australia |	Mangaung Oval |	77.20 |
+| 4 |	India |	Newlands |	76.65 |
+| 5 |	Bangladesh |	SuperSport Park |	70.54 |
+| 6 |	England |	Mangaung Oval |	68.78 |
+|7 |	Scotland |	Queens Sports Club |	68.16 |
+|8 |	Sri Lanka |	Queens Sports Club	65.27 |
+|9 |	West Indies |	Harare Sports Club	63.23 |
+|10 |	Ireland |	Wanderers Stadium |	62.12 |
 
 The dashboard also provides recommendations for Zimbabwe, New Zealand, Namibia and Afghanistan.
+
+##📈 Power BI Dashboard
+
+The project contains a three-page Power BI dashboard.
+
+Page 1 — Team Intelligence
+
+Provides:
+
+Top 10 team recommendations
+Recommended venues
+Recommendation data source
+Team recommendation table
+Historical vs fallback recommendation coverage
+Project-level KPIs
+Page 2 — Team Analysis
+
+Provides:
+
+Team-specific venue ranking
+Venue score breakdown
+Top recommended venues
+Team recommendation summary
+Historical venue analysis
+Page 3 — Venue Recommendation Intelligence
+
+Provides:
+
+Team × Venue final score matrix
+Historical data coverage
+Coverage summary
+Historical matches by venue
+Venue-level historical analysis
