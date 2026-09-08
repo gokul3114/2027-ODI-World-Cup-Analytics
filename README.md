@@ -559,7 +559,7 @@ The complete project includes:
 
 **Gokul G**
 
-Aspiring Data Analyst skilled in SQL, Python, Excel, Power BI, Tableau, and Data Visualization, with a strong interest in transforming raw data into actionable business insights.
+Aspiring Data Analyst skilled in SQL, Python, Excel, Power BI, Tableau, and data visualization, with a strong interest in transforming raw data into actionable business insights and decision-support solutions.
 
 ### Connect with me
 
