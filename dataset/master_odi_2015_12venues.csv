@@ -1,0 +1,154 @@
+file,match_id,date,gender,match_type,venue,city,team1,team2,winner,standardized_venue
+1007649.json,3742,2016-06-11,male,ODI,Harare Sports Club,,Zimbabwe,India,India,Harare Sports Club
+1007651.json,3744,2016-06-13,male,ODI,Harare Sports Club,,Zimbabwe,India,India,Harare Sports Club
+1007653.json,3746,2016-06-15,male,ODI,Harare Sports Club,,Zimbabwe,India,India,Harare Sports Club
+1059710.json,3804,2016-11-14,male,ODI,Harare Sports Club,,Zimbabwe,Sri Lanka,Sri Lanka,Harare Sports Club
+1059711.json,3805,2016-11-16,male,ODI,Harare Sports Club,,Sri Lanka,West Indies,West Indies,Harare Sports Club
+1059712.json,3806,2016-11-19,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,West Indies,,Queens Sports Club
+1059713.json,3807,2016-11-21,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,Sri Lanka,,Queens Sports Club
+1059714.json,3808,2016-11-23,male,ODI,Queens Sports Club,Bulawayo,Sri Lanka,West Indies,Sri Lanka,Queens Sports Club
+1059715.json,3809,2016-11-25,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,West Indies,Zimbabwe,Queens Sports Club
+1059716.json,3810,2016-11-27,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,Sri Lanka,Sri Lanka,Queens Sports Club
+1075505.json,3925,2017-10-18,male,ODI,Boland Park,Paarl,South Africa,Bangladesh,South Africa,Boland Park
+1075506.json,3929,2017-10-22,male,ODI,Buffalo Park,East London,South Africa,Bangladesh,South Africa,Buffalo Park
+1122279.json,3969,2018-02-01,male,ODI,Kingsmead,Durban,South Africa,India,India,Kingsmead
+1122280.json,3970,2018-02-04,male,ODI,SuperSport Park,Centurion,South Africa,India,India,SuperSport Park
+1122281.json,3971,2018-02-07,male,ODI,Newlands,Cape Town,India,South Africa,India,Newlands
+1122282.json,3973,2018-02-10,male,ODI,The Wanderers Stadium,Johannesburg,India,South Africa,South Africa,Wanderers Stadium
+1122283.json,3976,2018-02-13,male,ODI,St George's Park,Port Elizabeth,India,South Africa,India,St George's Park
+1122284.json,3978,2018-02-16,male,ODI,SuperSport Park,Centurion,South Africa,India,India,SuperSport Park
+1133002.json,3986,2018-03-06,male,ODI,Harare Sports Club,,Papua New Guinea,Ireland,Ireland,Harare Sports Club
+1133010.json,3993,2018-03-10,male,ODI,Harare Sports Club,,West Indies,Ireland,West Indies,Harare Sports Club
+1133012.json,3994,2018-03-10,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,Hong Kong,Zimbabwe,Queens Sports Club
+1133017.json,3996,2018-03-12,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,Scotland,,Queens Sports Club
+1133019.json,3998,2018-03-15,male,ODI,Queens Sports Club,Bulawayo,Scotland,United Arab Emirates,Scotland,Queens Sports Club
+1133022.json,3999,2018-03-16,male,ODI,Harare Sports Club,,Zimbabwe,Ireland,Zimbabwe,Harare Sports Club
+1133025.json,4001,2018-03-18,male,ODI,Harare Sports Club,,Ireland,Scotland,Ireland,Harare Sports Club
+1133026.json,4002,2018-03-19,male,ODI,Harare Sports Club,,Zimbabwe,West Indies,West Indies,Harare Sports Club
+1133028.json,4004,2018-03-21,male,ODI,Harare Sports Club,,West Indies,Scotland,West Indies,Harare Sports Club
+1133029.json,4005,2018-03-22,male,ODI,Harare Sports Club,,United Arab Emirates,Zimbabwe,United Arab Emirates,Harare Sports Club
+1134540.json,3984,2018-03-04,male,ODI,Harare Sports Club,,United Arab Emirates,Papua New Guinea,United Arab Emirates,Harare Sports Club
+1142920.json,4015,2018-07-13,male,ODI,Queens Sports Club,Bulawayo,Pakistan,Zimbabwe,Pakistan,Queens Sports Club
+1142921.json,4017,2018-07-16,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,Pakistan,Pakistan,Queens Sports Club
+1142922.json,4019,2018-07-18,male,ODI,Queens Sports Club,Bulawayo,Zimbabwe,Pakistan,Pakistan,Queens Sports Club
+1142923.json,4020,2018-07-20,male,ODI,Queens Sports Club,Bulawayo,Pakistan,Zimbabwe,Pakistan,Queens Sports Club
+1142924.json,4021,2018-07-22,male,ODI,Queens Sports Club,Bulawayo,Pakistan,Zimbabwe,Pakistan,Queens Sports Club
+1144147.json,4050,2018-10-03,male,ODI,Mangaung Oval,Bloemfontein,South Africa,Zimbabwe,South Africa,Mangaung Oval
+1144148.json,4051,2018-10-06,male,ODI,Boland Park,Paarl,Zimbabwe,South Africa,South Africa,Boland Park
+1144156.json,4080,2019-01-19,male,ODI,St George's Park,Port Elizabeth,South Africa,Pakistan,Pakistan,St George's Park
+1144157.json,4081,2019-01-22,male,ODI,Kingsmead,Durban,South Africa,Pakistan,South Africa,Kingsmead
+1144158.json,4084,2019-01-25,male,ODI,SuperSport Park,Centurion,South Africa,Pakistan,South Africa,SuperSport Park
+1144159.json,4087,2019-01-27,male,ODI,The Wanderers Stadium,Johannesburg,South Africa,Pakistan,Pakistan,Wanderers Stadium
+1144160.json,4090,2019-01-30,male,ODI,Newlands,Cape Town,South Africa,Pakistan,South Africa,Newlands
+1144167.json,4104,2019-03-03,male,ODI,The Wanderers Stadium,Johannesburg,South Africa,Sri Lanka,South Africa,Wanderers Stadium
+1144168.json,4107,2019-03-06,male,ODI,SuperSport Park,Centurion,South Africa,Sri Lanka,South Africa,SuperSport Park
+1144169.json,4112,2019-03-10,male,ODI,Kingsmead,Durban,South Africa,Sri Lanka,South Africa,Kingsmead
+1144170.json,4114,2019-03-13,male,ODI,St George's Park,Port Elizabeth,South Africa,Sri Lanka,South Africa,St George's Park
+1144171.json,4115,2019-03-16,male,ODI,Newlands,Cape Town,South Africa,Sri Lanka,South Africa,Newlands
+1179272.json,4121,2019-04-10,male,ODI,Harare Sports Club,Harare,Zimbabwe,United Arab Emirates,Zimbabwe,Harare Sports Club
+1179273.json,4122,2019-04-12,male,ODI,Harare Sports Club,Harare,Zimbabwe,United Arab Emirates,Zimbabwe,Harare Sports Club
+1179275.json,4124,2019-04-16,male,ODI,Harare Sports Club,Harare,Zimbabwe,United Arab Emirates,Zimbabwe,Harare Sports Club
+1185310.json,4234,2020-02-04,male,ODI,Newlands,Cape Town,South Africa,England,South Africa,Newlands
+1185311.json,4238,2020-02-07,male,ODI,Kingsmead,Durban,South Africa,England,,Kingsmead
+1185312.json,4242,2020-02-09,male,ODI,The Wanderers Stadium,Johannesburg,South Africa,England,England,Wanderers Stadium
+1185319.json,4248,2020-02-29,male,ODI,Boland Park,Paarl,South Africa,Australia,South Africa,Boland Park
+1185320.json,4252,2020-03-04,male,ODI,Mangaung Oval,Bloemfontein,South Africa,Australia,South Africa,Mangaung Oval
+1251572.json,4285,2021-04-02,male,ODI,"SuperSport Park, Centurion",Centurion,South Africa,Pakistan,Pakistan,SuperSport Park
+1251573.json,4286,2021-04-04,male,ODI,The Wanderers Stadium,Johannesburg,South Africa,Pakistan,South Africa,Wanderers Stadium
+1251574.json,4287,2021-04-07,male,ODI,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,SuperSport Park
+1267677.json,4304,2021-07-16,male,ODI,Harare Sports Club,Harare,Bangladesh,Zimbabwe,Bangladesh,Harare Sports Club
+1267678.json,4306,2021-07-18,male,ODI,Harare Sports Club,Harare,Zimbabwe,Bangladesh,Bangladesh,Harare Sports Club
+1267679.json,4308,2021-07-20,male,ODI,Harare Sports Club,Harare,Zimbabwe,Bangladesh,Bangladesh,Harare Sports Club
+1277073.json,4337,2021-11-26,male,ODI,"SuperSport Park, Centurion",Centurion,South Africa,Netherlands,,SuperSport Park
+1277082.json,4344,2022-01-19,male,ODI,"Boland Park, Paarl",Paarl,South Africa,India,South Africa,Boland Park
+1277083.json,4346,2022-01-21,male,ODI,"Boland Park, Paarl",Paarl,India,South Africa,South Africa,Boland Park
+1277084.json,4349,2022-01-23,male,ODI,"Newlands, Cape Town",Cape Town,South Africa,India,South Africa,Newlands
+1277097.json,4370,2022-03-18,male,ODI,"SuperSport Park, Centurion",Centurion,Bangladesh,South Africa,Bangladesh,SuperSport Park
+1277098.json,4372,2022-03-20,male,ODI,"The Wanderers Stadium, Johannesburg",Johannesburg,Bangladesh,South Africa,South Africa,Wanderers Stadium
+1277099.json,4375,2022-03-23,male,ODI,"SuperSport Park, Centurion",Centurion,South Africa,Bangladesh,Bangladesh,SuperSport Park
+1323292.json,4441,2022-08-05,male,ODI,Harare Sports Club,Harare,Bangladesh,Zimbabwe,Zimbabwe,Harare Sports Club
+1323293.json,4442,2022-08-07,male,ODI,Harare Sports Club,Harare,Bangladesh,Zimbabwe,Zimbabwe,Harare Sports Club
+1323294.json,4443,2022-08-10,male,ODI,Harare Sports Club,Harare,Bangladesh,Zimbabwe,Bangladesh,Harare Sports Club
+1325549.json,4451,2022-08-18,male,ODI,Harare Sports Club,Harare,Zimbabwe,India,India,Harare Sports Club
+1325550.json,4454,2022-08-20,male,ODI,Harare Sports Club,Harare,Zimbabwe,India,India,Harare Sports Club
+1325551.json,4457,2022-08-22,male,ODI,Harare Sports Club,Harare,India,Zimbabwe,India,Harare Sports Club
+1339595.json,4512,2023-01-27,male,ODI,"Mangaung Oval, Bloemfontein",Bloemfontein,South Africa,England,South Africa,Mangaung Oval
+1339596.json,4513,2023-01-29,male,ODI,"Mangaung Oval, Bloemfontein",Bloemfontein,England,South Africa,South Africa,Mangaung Oval
+1339602.json,4540,2023-03-18,male,ODI,"Buffalo Park, East London",East London,West Indies,South Africa,West Indies,Buffalo Park
+1339608.json,4563,2023-04-02,male,ODI,"The Wanderers Stadium, Johannesburg",Johannesburg,South Africa,Netherlands,South Africa,Wanderers Stadium
+1348326.json,4506,2023-01-18,male,ODI,Harare Sports Club,Harare,Ireland,Zimbabwe,Zimbabwe,Harare Sports Club
+1348327.json,4508,2023-01-21,male,ODI,Harare Sports Club,Harare,Ireland,Zimbabwe,Ireland,Harare Sports Club
+1348328.json,4510,2023-01-23,male,ODI,Harare Sports Club,Harare,Zimbabwe,Ireland,,Harare Sports Club
+1362379.json,4543,2023-03-21,male,ODI,Harare Sports Club,Harare,Zimbabwe,Netherlands,Netherlands,Harare Sports Club
+1362380.json,4546,2023-03-23,male,ODI,Harare Sports Club,Harare,Zimbabwe,Netherlands,Zimbabwe,Harare Sports Club
+1362381.json,4549,2023-03-25,male,ODI,Harare Sports Club,Harare,Netherlands,Zimbabwe,Zimbabwe,Harare Sports Club
+1373571.json,4635,2023-09-07,male,ODI,"Mangaung Oval, Bloemfontein",Bloemfontein,South Africa,Australia,Australia,Mangaung Oval
+1373572.json,4638,2023-09-09,male,ODI,"Mangaung Oval, Bloemfontein",Bloemfontein,Australia,South Africa,Australia,Mangaung Oval
+1373574.json,4646,2023-09-15,male,ODI,"SuperSport Park, Centurion",Centurion,South Africa,Australia,South Africa,SuperSport Park
+1373575.json,4648,2023-09-17,male,ODI,"The Wanderers Stadium, Johannesburg",Johannesburg,South Africa,Australia,South Africa,Wanderers Stadium
+1377746.json,4585,2023-06-18,male,ODI,Harare Sports Club,Harare,Nepal,Zimbabwe,Zimbabwe,Harare Sports Club
+1377750.json,4589,2023-06-20,male,ODI,Harare Sports Club,Harare,Netherlands,Zimbabwe,Zimbabwe,Harare Sports Club
+1377754.json,4593,2023-06-22,male,ODI,Harare Sports Club,Harare,West Indies,Nepal,West Indies,Harare Sports Club
+1377758.json,4597,2023-06-24,male,ODI,Harare Sports Club,Harare,Zimbabwe,West Indies,Zimbabwe,Harare Sports Club
+1377762.json,4601,2023-06-26,male,ODI,Harare Sports Club,Harare,Zimbabwe,United States of America,Zimbabwe,Harare Sports Club
+1377769.json,4608,2023-07-01,male,ODI,Harare Sports Club,Harare,West Indies,Scotland,Scotland,Harare Sports Club
+1377772.json,4611,2023-07-03,male,ODI,Harare Sports Club,Harare,Netherlands,Oman,Netherlands,Harare Sports Club
+1377775.json,4614,2023-07-05,male,ODI,Harare Sports Club,Harare,Oman,West Indies,West Indies,Harare Sports Club
+1377778.json,4618,2023-07-07,male,ODI,Harare Sports Club,Harare,West Indies,Sri Lanka,Sri Lanka,Harare Sports Club
+1377779.json,4620,2023-07-09,male,ODI,Harare Sports Club,Harare,Sri Lanka,Netherlands,Sri Lanka,Harare Sports Club
+1387600.json,4713,2023-12-17,male,ODI,"The Wanderers Stadium, Johannesburg",Johannesburg,South Africa,India,India,Wanderers Stadium
+1387601.json,4714,2023-12-19,male,ODI,"St George's Park, Gqeberha",Gqeberha,India,South Africa,South Africa,St George's Park
+1387602.json,4716,2023-12-21,male,ODI,"Boland Park, Paarl",Paarl,India,South Africa,India,Boland Park
+1408106.json,4709,2023-12-13,male,ODI,Harare Sports Club,Harare,Zimbabwe,Ireland,,Harare Sports Club
+1408107.json,4710,2023-12-15,male,ODI,Harare Sports Club,Harare,Zimbabwe,Ireland,Ireland,Harare Sports Club
+1408108.json,4712,2023-12-17,male,ODI,Harare Sports Club,Harare,Zimbabwe,Ireland,Ireland,Harare Sports Club
+1432214.json,4817,2024-12-17,male,ODI,"Boland Park, Paarl",Paarl,South Africa,Pakistan,Pakistan,Boland Park
+1432215.json,4819,2024-12-19,male,ODI,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,Pakistan,Newlands
+1432216.json,4821,2024-12-22,male,ODI,"The Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,Wanderers Stadium
+1467701.json,4837,2025-02-14,male,ODI,Harare Sports Club,Harare,Zimbabwe,Ireland,Zimbabwe,Harare Sports Club
+1467702.json,4840,2025-02-16,male,ODI,Harare Sports Club,Harare,Zimbabwe,Ireland,Ireland,Harare Sports Club
+1467703.json,4842,2025-02-18,male,ODI,Harare Sports Club,Harare,Ireland,Zimbabwe,Zimbabwe,Harare Sports Club
+1492821.json,4899,2025-08-29,male,ODI,Harare Sports Club,Harare,Sri Lanka,Zimbabwe,Sri Lanka,Harare Sports Club
+1492822.json,4900,2025-08-31,male,ODI,Harare Sports Club,Harare,Zimbabwe,Sri Lanka,Sri Lanka,Harare Sports Club
+1529140.json,4946,2026-04-04,male,ODI,"Namibia Cricket Ground, Windhoek",Windhoek,Namibia,Oman,Oman,Namibia Cricket Ground
+1529141.json,4947,2026-04-06,male,ODI,"Namibia Cricket Ground, Windhoek",Windhoek,Namibia,Scotland,,Namibia Cricket Ground
+1529142.json,4948,2026-04-08,male,ODI,"Namibia Cricket Ground, Windhoek",Windhoek,Oman,Scotland,Oman,Namibia Cricket Ground
+1529143.json,4949,2026-04-10,male,ODI,"Namibia Cricket Ground, Windhoek",Windhoek,Oman,Namibia,Namibia,Namibia Cricket Ground
+1529144.json,4950,2026-04-12,male,ODI,"Namibia Cricket Ground, Windhoek",Windhoek,Namibia,Scotland,Scotland,Namibia Cricket Ground
+1538298.json,4982,2026-07-06,male,ODI,Harare Sports Club,Harare,Zimbabwe,Bangladesh,Zimbabwe,Harare Sports Club
+1538299.json,4983,2026-07-09,male,ODI,Harare Sports Club,Harare,Zimbabwe,Bangladesh,Zimbabwe,Harare Sports Club
+1538300.json,4984,2026-07-11,male,ODI,Harare Sports Club,Harare,Zimbabwe,Bangladesh,Bangladesh,Harare Sports Club
+722339.json,3579,2015-01-16,male,ODI,Kingsmead,Durban,South Africa,West Indies,South Africa,Kingsmead
+722341.json,3583,2015-01-18,male,ODI,New Wanderers Stadium,Johannesburg,South Africa,West Indies,South Africa,Wanderers Stadium
+722343.json,3587,2015-01-21,male,ODI,Buffalo Park,East London,South Africa,West Indies,South Africa,Buffalo Park
+722345.json,3591,2015-01-25,male,ODI,St George's Park,Port Elizabeth,South Africa,West Indies,West Indies,St George's Park
+722347.json,3593,2015-01-28,male,ODI,SuperSport Park,Centurion,South Africa,West Indies,South Africa,SuperSport Park
+800469.json,3732,2016-02-03,male,ODI,Mangaung Oval,Bloemfontein,South Africa,England,England,Mangaung Oval
+800471.json,3734,2016-02-06,male,ODI,St George's Park,Port Elizabeth,South Africa,England,England,St George's Park
+800473.json,3736,2016-02-09,male,ODI,SuperSport Park,Centurion,South Africa,England,South Africa,SuperSport Park
+800475.json,3737,2016-02-12,male,ODI,New Wanderers Stadium,Johannesburg,South Africa,England,South Africa,Wanderers Stadium
+800477.json,3738,2016-02-14,male,ODI,Newlands,Cape Town,South Africa,England,South Africa,Newlands
+848843.json,3676,2015-08-19,male,ODI,SuperSport Park,Centurion,South Africa,New Zealand,South Africa,SuperSport Park
+848847.json,3678,2015-08-26,male,ODI,Kingsmead,Durban,South Africa,New Zealand,South Africa,Kingsmead
+885959.json,3662,2015-07-10,male,ODI,Harare Sports Club,,Zimbabwe,India,India,Harare Sports Club
+885965.json,3665,2015-07-12,male,ODI,Harare Sports Club,,Zimbabwe,India,India,Harare Sports Club
+885967.json,3667,2015-07-14,male,ODI,Harare Sports Club,,Zimbabwe,India,India,Harare Sports Club
+894287.json,3673,2015-08-02,male,ODI,Harare Sports Club,,Zimbabwe,New Zealand,Zimbabwe,Harare Sports Club
+894289.json,3674,2015-08-04,male,ODI,Harare Sports Club,,Zimbabwe,New Zealand,New Zealand,Harare Sports Club
+894291.json,3675,2015-08-07,male,ODI,Harare Sports Club,,Zimbabwe,New Zealand,New Zealand,Harare Sports Club
+919607.json,3685,2015-10-01,male,ODI,Harare Sports Club,,Zimbabwe,Pakistan,Pakistan,Harare Sports Club
+919609.json,3686,2015-10-03,male,ODI,Harare Sports Club,,Zimbabwe,Pakistan,Zimbabwe,Harare Sports Club
+919611.json,3687,2015-10-05,male,ODI,Harare Sports Club,,Zimbabwe,Pakistan,Pakistan,Harare Sports Club
+919613.json,3688,2015-10-09,male,ODI,Harare Sports Club,,Zimbabwe,Ireland,Zimbabwe,Harare Sports Club
+919615.json,3690,2015-10-11,male,ODI,Harare Sports Club,,Zimbabwe,Ireland,Zimbabwe,Harare Sports Club
+919617.json,3691,2015-10-13,male,ODI,Harare Sports Club,,Zimbabwe,Ireland,Ireland,Harare Sports Club
+936135.json,3785,2016-09-30,male,ODI,SuperSport Park,Centurion,South Africa,Australia,South Africa,SuperSport Park
+936137.json,3787,2016-10-02,male,ODI,New Wanderers Stadium,Johannesburg,South Africa,Australia,South Africa,Wanderers Stadium
+936139.json,3790,2016-10-05,male,ODI,Kingsmead,Durban,South Africa,Australia,South Africa,Kingsmead
+936141.json,3792,2016-10-09,male,ODI,St George's Park,Port Elizabeth,South Africa,Australia,South Africa,St George's Park
+936143.json,3795,2016-10-12,male,ODI,Newlands,Cape Town,South Africa,Australia,South Africa,Newlands
+936159.json,3828,2017-01-28,male,ODI,St George's Park,Port Elizabeth,South Africa,Sri Lanka,South Africa,St George's Park
+936161.json,3830,2017-02-01,male,ODI,Kingsmead,Durban,South Africa,Sri Lanka,South Africa,Kingsmead
+936163.json,3831,2017-02-04,male,ODI,New Wanderers Stadium,Johannesburg,South Africa,Sri Lanka,South Africa,Wanderers Stadium
+936165.json,3833,2017-02-07,male,ODI,Newlands,Cape Town,South Africa,Sri Lanka,South Africa,Newlands
+936167.json,3834,2017-02-10,male,ODI,SuperSport Park,Centurion,South Africa,Sri Lanka,South Africa,SuperSport Park
