@@ -201,6 +201,7 @@ Recommendation data source
 Team recommendation table
 Historical vs fallback recommendation coverage
 Project-level KPIs
+
 Page 2 — Team Analysis
 
 Provides:
@@ -210,6 +211,7 @@ Venue score breakdown
 Top recommended venues
 Team recommendation summary
 Historical venue analysis
+
 Page 3 — Venue Recommendation Intelligence
 
 Provides:
@@ -219,3 +221,73 @@ Historical data coverage
 Coverage summary
 Historical matches by venue
 Venue-level historical analysis
+
+##📁 Repository Structure
+
+2027-ODI-World-Cup-Analytics/
+│
+├── README.md
+│
+├── dataset/
+│   ├── historical_team_venue_summary.csv
+│   ├── final_venue_ranking.csv
+│   ├── final_recommendations.csv
+│   ├── recommendation_summary.csv
+│   └── top_3_venue.csv
+│
+├── python/
+│   └── 2027wc.ipynb
+│
+├── powerbi/
+│   └── 2027wc_dashboard.pbit
+│
+├── report/
+│   ├── 2027_ODI_World_Cup_Team_Venue_Intelligence_Report.pdf
+│   └── 2027_ODI_World_Cup_Team_Venue_Intelligence_Report.docx
+│
+├── presentation/
+│   └── 2027_ODI_World_Cup_Presentation.pptx
+│
+└── dashboard pdf/
+    └── 2027wc_analysis_dashboard.pdf
+
+##🛠️ Tools & Technologies
+Python
+Pandas
+Jupyter Notebook
+Power BI
+DAX
+CSV
+JSON
+GitHub
+
+##💡 Business Value
+
+This project demonstrates how historical sports data can be transformed into a decision-support solution.
+
+Instead of simply reporting historical statistics, the analysis converts team and venue performance data into:
+
+Data → Performance Metrics → Scoring → Ranking → Recommendation
+
+This approach can support venue planning and comparative team analysis.
+
+##⚠️ Limitations
+Historical performance does not guarantee future performance.
+Some team–venue combinations have limited or no historical data.
+Fallback scores are used when historical team–venue data is unavailable.
+The analysis is based on historical ODI performance and does not model future match conditions.
+Venue recommendations should therefore be interpreted as analytical recommendations rather than predictions of match outcomes.
+
+##👤 Author
+
+Gokul
+
+Data Analyst Portfolio Project
+
+##⭐ Project Highlights
+
+14 Teams | 12 Venues | 168 Team–Venue Combinations
+
+Python Data Analysis + Power BI Dashboard
+
+Historical Performance + Venue Recommendation Intelligence
