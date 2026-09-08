@@ -552,3 +552,24 @@ The complete project includes:
 **Role:** Data Analyst / Portfolio Project
 
 **Primary Tools:** Python, Pandas, Jupyter Notebook, Power BI, DAX, CSV, JSON, GitHub
+
+---
+
+## 👤 Author
+
+**Gokul G**
+
+Aspiring Data Analyst skilled in SQL, Python, Excel, Power BI, Tableau, and Data Visualization, with a strong interest in transforming raw data into actionable business insights.
+
+### Connect with me
+
+- 💼 LinkedIn: [Gokul G](https://www.linkedin.com/in/gokul-g-1a44952b3/)
+- 💻 GitHub: [gokul3114](https://github.com/gokul3114)
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or interesting, consider giving it a ⭐ on GitHub!
+
+Your support is appreciated.
